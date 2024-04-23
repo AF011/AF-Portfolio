@@ -124,7 +124,7 @@ These project lists showcase my abilities in skills like Machine Learning, Natur
 
 Take a closer look at AF's comprehensive resume to understand the depth of his experience and the breadth of his skills.
 
-**View AF's Resume:** [AF011 Resume PDF](https://example.com/AF011_Resume.pdf)
+**View AF's Resume:** [AF011 Resume PDF](https://drive.google.com/file/d/1mylhIpJotOrJvrKu3k-KrRFKt2882TD-/view?usp=sharing)
 """,
 
 "9": """
