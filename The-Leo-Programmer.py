@@ -162,8 +162,8 @@ The nickname 'The Leo Programmer' is inspired by my zodiac sign, representing my
         "achievements": "7",
         "resume": "8",
         "about": "9",
-        "af": 9,
-        "abdul faheem": 9
+        "af": "9",
+        "abdul faheem": "9"
     }
 
     
