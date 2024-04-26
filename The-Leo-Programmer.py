@@ -200,10 +200,10 @@ def main():
     1. Education
     2. Skills
     3. Certifications
-    4. Achievements
-    5. Research Activities
-    6. Conference Publications
-    7. Projects
+    4. Research Activities
+    5. Conference Publications
+    6. Projects 
+    7. Achievements
     8. Resume
     9. About
     """)
